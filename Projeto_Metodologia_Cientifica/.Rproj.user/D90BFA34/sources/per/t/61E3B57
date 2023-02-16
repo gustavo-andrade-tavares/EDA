@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1627141523944.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2321156991",
+    "id" : "61E3B57",
+    "lastKnownWriteTime" : 1627147260,
+    "last_content_update" : 1627147260839,
+    "path" : "~/Arquivos RStudio/Projeto_Metodologia_Cientifica/teste_plotly.R",
+    "project_path" : "teste_plotly.R",
+    "properties" : {
+        "cursorPosition" : "57,3",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

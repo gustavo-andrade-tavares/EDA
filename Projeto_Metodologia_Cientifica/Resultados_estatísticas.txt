@@ -1,0 +1,16 @@
+Variável: primary energy consumption (TWh)
+#assimetria e curtose: http://wiki.icmc.usp.br/images/5/50/Parte6.pdf
+-> Consumo de energias renováveis per capita no período de 2010-2019
+
+PAÍSES | MÉDIA | MEDIANA | ASSIMETRIA | CURTOSE
+"Sweden" -- | |  | |    
+"Netherlands" -- | | | | 
+"Australia" -- | | | | 
+"Denmark" -- | | | |   
+"United States" -- | | | | 
+"Norway" -- | | | | 
+"Ireland" -- | | | |       
+"Switzerland" -- | | | | 
+"Russia" -- | | | |       
+"Canada"  -- | | | |      
+"Brazil" -- | | | | 

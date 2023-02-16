@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1627148136830.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3266678059",
+    "id" : "CB8581",
+    "lastKnownWriteTime" : 1627148564,
+    "last_content_update" : 1627148564933,
+    "path" : "~/Arquivos RStudio/Projeto_Metodologia_Cientifica/shiny_test.R",
+    "project_path" : "shiny_test.R",
+    "properties" : {
+        "cursorPosition" : "24,7",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

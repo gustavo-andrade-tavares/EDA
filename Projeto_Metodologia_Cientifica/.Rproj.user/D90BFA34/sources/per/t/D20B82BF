@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1626202935133.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1738780309",
+    "id" : "D20B82BF",
+    "lastKnownWriteTime" : 1626537928,
+    "last_content_update" : 1626537928659,
+    "path" : "~/Arquivos RStudio/Projeto_Metodologia_Cientifica/Graficos.R",
+    "project_path" : "Graficos.R",
+    "properties" : {
+        "cursorPosition" : "5,51",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
